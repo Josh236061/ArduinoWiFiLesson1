@@ -1,2 +1,7 @@
-# ArduinoWiFiLesson1
-Lesson 1 Code for Arduino WiFi Kit
+# Arduino WiFi IoT Projects 
+
+Lesson 1: Hello World
+
+Lesson 2: Remote Control LED
+
+Lesson 3: Photoresistor Sensor
