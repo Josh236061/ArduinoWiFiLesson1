@@ -25,8 +25,8 @@
 SoftwareSerial softserial(4, 5); // RX, TX
 //#endif
 
-char ssid[] = "SwiftOPsWLAN";            // your network SSID (name)
-char pass[] = "Sw1FtOPs1987!";        // your network password
+char ssid[] = "";            // your network SSID (name)
+char pass[] = "";        // your network password
 int status = WL_IDLE_STATUS;
 int reqCount = 0;                // number of requests received
 
