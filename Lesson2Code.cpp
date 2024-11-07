@@ -13,8 +13,8 @@
 #include "SoftwareSerial.h"
 #define ledPin 13
 SoftwareSerial softserial(4, 5); // A9 to ESP_TX, A8 to ESP_RX by default
-char ssid[] = "Swift_OPs_TMOBILE";            // your network SSID (name)
-char pass[] = "Sw1Ft8719132";        // your network password
+char ssid[] = "";            // your network SSID (name)
+char pass[] = "";        // your network password
 int status = WL_IDLE_STATUS;     // the Wifi radio's status
 WiFiEspUDP Udp;
 unsigned int localPort = 8888;              // local port to listen on
