@@ -1,3 +1,3 @@
-# ArduinoWiFiLesson1
+# ArduinoWiFiLessons
 
 Lesson 1 Code for Arduino WiFi Kit
