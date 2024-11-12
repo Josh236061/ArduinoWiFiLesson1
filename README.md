@@ -8,9 +8,9 @@ Lesson 3: Photoresistor Sensor
 
 Lesson 4: DHT11 Sensor
 
-Lesson 5: BMP180 Pressure Sensor (Code TO BE POSTED)
+Lesson 5: BMP180 Pressure Sensor
 
-Lesson 6: Servo Motor (Code TO BE POSTED)
+Lesson 6: Servo Motor
 
 Lesson 7: Smart Home Water Leak Alert (Code TO BE POSTED)
 
